@@ -1,0 +1,19 @@
+{
+  "name": "checkpoint-mongoose",
+  "version": "1.0.0",
+  "description": "checkpoint-mongoose",
+  "main": "server.js",
+  "scripts": {
+    "start": "nodemon server.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "keywords": [],
+  "dependencies": {
+    "express": "^4.17.1",
+    "json": "^11.0.0",
+    "mongoose": "^6.0.8",
+    "nodemon": "^2.0.13",
+    "validator": "^13.6.0"
+  }
+}
